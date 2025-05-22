@@ -3,7 +3,7 @@
 ##  Mayara Gussonato de Oliveira Silva 
 
 - 📚 Cursando Desenvolvimento de Sistemas
-- 🧐 Aberto a novas oportunidades e experiências
+- 🧐 Procuro novas oportunidades e experiências
 - 📌 Brazil, São Paulo
 
 

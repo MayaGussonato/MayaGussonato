@@ -1,10 +1,9 @@
-- 👋 Olá, sou Mayara Gussonato
-- 👀 Estou interessado em Aprender novas coisas
-- 🌱 Atualmente estou aprendendo logistica de programação
-- 💞️ Procuro colaborar em ...
-- 📫 Como entrar em contato comigo 
-- 😄 Pronomes: Ela/Dela
-- ⚡ Curiosidade: ...
+Mayara Gussonato de Oliveira Silva
+___________________________________________________________________________________________________________________________________________________________________________________
+
+📚 Cursando Desenvolvimento de Sistemas
+🧐 Aberto a novas oportunidades e experiências
+📌 Brazil, São Paulo
 
 <!---
 MayaGussonato/MayaGussonato é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece em seu perfil do GitHub.

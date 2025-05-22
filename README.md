@@ -1,8 +1,8 @@
 - 👋 Olá, sou Mayara Gussonato
 - 👀 Estou interessado em Aprender novas coisas
-- 🌱 Atualmente estou aprendendo Logica de progamação
+- 🌱 Atualmente estou aprendendo logistica de programação
 - 💞️ Procuro colaborar em ...
-- 📫 Como entrar em contato comigo ...
+- 📫 Como entrar em contato comigo 
 - 😄 Pronomes: Ela/Dela
 - ⚡ Curiosidade: ...
 

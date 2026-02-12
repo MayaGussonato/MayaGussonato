@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=87CEFA&center=true&vCenter=true&width=600&height=100&lines=BEM+VINDO+AO+MEU+PERFIL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=600&height=100&gradient=ADD8E6,00BFFF&lines=BEM+VINDO+AO+MEU+PERFIL)](https://git.io/typing-svg)
+
 
 
 - 📚 Curso: **Desenvolvimento de Sistemas**  

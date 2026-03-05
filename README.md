@@ -19,27 +19,22 @@
 -  **CiberSegurança na Nuvem** — SENAI  
 -  **Implantação de Serviços de Inteligência Artificial em Nuvem - Microsoft AI-900** — SENAI  
 
----
-
-##  Estatísticas do GitHub
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mayagussonato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayagussonato&layout=compact&langs_count=8&theme=dracula&locale=pt-br"/>
-
-</div>
 
 ---
 
-##  Sequência de commits
+# 🌐 Redes Sociais
 
-<div align="center">
+<a href="https://www.instagram.com/maya_gussonato" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-<img src="https://streak-stats.demolab.com?user=Mayagussonato&theme=dracula&locale=pt_BR"/>
+<a href="mailto:maygussonato@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-</div>
+<a href="https://www.linkedin.com/in/mayara-gussonato-de-oliveira-silva-848899383/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 ---
 
@@ -90,22 +85,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35"/>
 
 </div>
-
----
-
-# 🌐 Redes Sociais
-
-<a href="https://www.instagram.com/maya_gussonato" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:maygussonato@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mayara-gussonato-de-oliveira-silva-848899383/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
 ---
 

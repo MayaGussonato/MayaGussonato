@@ -4,7 +4,7 @@
 
 ---
 
-## 👩‍💻 Sobre mim
+##  Sobre mim
 
 - 🎓 Curso: **Desenvolvimento de Sistemas**
 - 📚 Atualmente no **3º semestre**
